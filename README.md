@@ -10,3 +10,4 @@ Labels were made using CVAT found here: https://github.com/cvat-ai/cvat
 Model was trained using lx-train.py (run python lx-train.py in conda env). You can change the number of epochs in the same file in 'epochs='
 
 Labels can be changed in ultralytics/cfg/datasets/bottles.yaml
+Note that you will need to change file paths if you would like to follow along.
