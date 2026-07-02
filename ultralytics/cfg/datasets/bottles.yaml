@@ -1,0 +1,9 @@
+path: /home/speechless/Desktop/HintonAI/yoloV10/yolov10/ultralytics/cfg/datasets/bottles
+
+train: images/train
+val: images/test
+
+names:
+  0: tube
+  1: empty
+
